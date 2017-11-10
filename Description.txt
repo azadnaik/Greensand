@@ -1,0 +1,1 @@
+This is a script driven strategy game using C++ and DirectX  where the game objects are controlled using code written in realtime giving better control to the player.
